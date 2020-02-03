@@ -1,0 +1,32 @@
+	hr {
+		color:gray;
+    	height: 1px;
+	}
+	p {
+		margin-bottom: 12px;
+		}
+	#header {
+		text-align: center;
+		margin-bottom: 32px;
+	}
+
+	#main {
+		padding: 12px;
+
+	}
+	#footer {
+		text-align: center;
+		margin-top: 64px;
+	}
+	 h1 {font-size: 36px;
+		font-weight:400;
+	 	padding: 0px;
+		margin-bottom: 12px; /*отступ снизу*/
+	 }
+	 h2 {font-size: 32px;
+		font-weight:400;
+		margin-bottom: 8px;
+	 }
+	 h3 {
+		font-weight:400;
+	 }
